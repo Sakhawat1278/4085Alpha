@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @Sakhawat1278
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi there 👋
+I'm Sakhawat Hossain. You can call me Sakhawat. I am a student and developer. For education purpose I am passionate about open source projects.Problem solving with many kinds of algorithms is an interesting topic for me.
 
-<!---
-Sakhawat1278/Sakhawat1278 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I like work with team too. I have many projects which, developed by me and also working with team members.
+
+💻 I'm currently doing some projects for my educational purpose.
+🔎 And also searching for open source project.
+🔔 You can invite me at your open source project If you need my collaboration.
+    
+
+Here is my short contact details:
+
+You can contact me through 📧 hshohan1278@gmail.com
+
+For detail just visit 💻 (https://www.linkedin.com/in/sakhawat-hossain-sohan-0643a9354/)
